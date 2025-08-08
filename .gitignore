@@ -22,6 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+<<<<<<< HEAD
 # Ignore everything
 *
 
@@ -37,3 +38,5 @@ src/*
 
 # Keep this file so Git works
 !.gitignore
+=======
+>>>>>>> 8f72e35532a5a676c0c428f9c1810b04ea36fcf0
